@@ -1,4 +1,4 @@
-# Log Analyzer Home Assignment
+# Log Analyzer
 
 ## Overview
 
